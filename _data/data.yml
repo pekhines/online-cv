@@ -210,7 +210,7 @@ publications:
       bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
+        link: "https://link.springer.com/article/10.1007/s10489-021-03004-y"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
