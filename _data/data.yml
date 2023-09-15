@@ -8,50 +8,53 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Ekhi Zugasti
+    tagline: Data Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ezugasti@mondragon.edu
+    phone: just email me
+    timezone: Central European Time
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: ekhi.eus
+    linkedin: ekhiz
+    xing: 
+    github: pekhines
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Euskara (Basque)
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Native
+          
+        - idiom: French
+          level: Limited working proficiency
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Music
           link:
 
-        - item: Snowboarding
+        - item: Dancing
           link:
 
-        - item: Cooking
+        - item: Gaming
           link:
 
 career-profile:
@@ -243,23 +246,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Machine Learning
         level: 98%
 
-      - name: Angular
+      - name: Deep Learning
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Computer Vision 
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Data Engineering
         level: 60%
+
+      - name: Prognostics
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
