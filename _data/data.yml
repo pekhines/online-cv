@@ -88,7 +88,7 @@ career-profile:
 education:
     title: Education
     info:
-    - degree: PhD in Civil Engineering
+        - degree: PhD in Civil Engineering
         university: Universidad Politecnica de Catalunya (UPC)
         time: 2009 - 2014
         details: |
