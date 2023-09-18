@@ -60,13 +60,28 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      In the dynamic field of data science and artificial intelligence, I have special interest particularly on industrial AI and model explainability in recent years. My journey began at Mondragon Unibertsitea, where I graduated in telecommunications engineering in 2009. Further nurturing my passion for technology and innovation, I pursued a PhD at the Polytechnic University of Catalonia (UPC), specializing in civil engineering knowledge. In 2014, I successfully defended my thesis titled "Design and validation of a methodology for wind energy structures health monitoring", a significant contribution to the field of renewable energy.
-
-My professional trajectory took a promising turn when I joined the IK4-Ikerlan technology centre. Initially, I was part of the Sensor Department, spearheading projects within the ETICS line. My role evolved over time, and by December 2015, I transitioned to the Mechanics Department. Here, I was instrumental in designing and developing projects centered around data analysis for monitoring the condition of machinery parts. My tenure at IK4-Ikerlan culminated in the Control and Monitoring Department, where I tackled complex projects involving monitoring and data analysis in advanced manufacturing problems until 2017.
-
-In 2017, I embraced a new opportunity to further my research and development skills at the Research Group of Intelligent Systems for Industrial Systems of Mondragon Unibertsitea. In this role, I have been at the forefront of designing, developing, and implementing projects that resonate with the Big Data paradigm and anomaly detection. My expertise in data analysis has been pivotal in addressing various industrial system challenges.
-
-As I continue to forge ahead in my career, my primary focus has shifted towards industrial AI and model explainability. This niche area allows me to delve deeper into the intricacies of artificial intelligence, fostering innovation and efficiency in the industrial sector. My commitment to excellence and continuous learning propels me to explore new frontiers, contributing to the advancement of technology and knowledge in the industry.
+      In the dynamic field of data science and artificial intelligence, 
+      I have special interest particularly on industrial AI and model explainability in recent years.
+      My journey began at Mondragon Unibertsitea, where I graduated in telecommunications engineering in 2009.
+      Further nurturing my passion for technology and innovation, I pursued a PhD at the
+      Polytechnic University of Catalonia (UPC), specializing in civil engineering knowledge.
+      In 2014, I successfully defended my thesis titled "Design and validation of a methodology for
+      wind energy structures health monitoring", a significant contribution to the field of renewable energy. 
+      My professional trajectory took a promising turn when I joined the IK4-Ikerlan technology centre. 
+      Initially, I was part of the Sensor Department, spearheading projects within the ETICS line. 
+      My role evolved over time, and by December 2015, I transitioned to the Mechanics Department. 
+      Here, I was instrumental in designing and developing projects centered around data analysis 
+      for monitoring the condition of machinery parts. My tenure at IK4-Ikerlan culminated in the Control
+      and Monitoring Department, where I tackled complex projects involving monitoring and data analysis 
+      in advanced manufacturing problems until 2017. In 2017, I embraced a new opportunity to further my 
+      research and development skills at the Research Group of Intelligent Systems for Industrial Systems
+      of Mondragon Unibertsitea. In this role, I have been at the forefront of designing, developing, and
+      implementing projects that resonate with the Big Data paradigm and anomaly detection. My expertise
+      in data analysis has been pivotal in addressing various industrial system challenges. As I continue
+      to forge ahead in my career, my primary focus has shifted towards industrial AI and model explainability. 
+      This niche area allows me to delve deeper into the intricacies of artificial intelligence, fostering 
+      innovation and efficiency in the industrial sector. My commitment to excellence and continuous learning propels 
+      me to explore new frontiers, contributing to the advancement of technology and knowledge in the industry.
 education:
     title: Education
     info:
