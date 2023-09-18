@@ -36,6 +36,12 @@
       <a href="https://scholar.google.at/citations?user={{ sidebar.gscholar }}" target="_blank">{{ sidebar.gscholar }}</a>
     </li>
     {% endif %}
+    {% if sidebar.orcid %}
+    <li class="telegram"><i class="fa-brands fa-orcid"></i>
+      <a href="https://orcid.org/{{ sidebar.gscholar }}" target="_blank">{{ sidebar.orcid }}</a>
+    </li>
+    {% endif %}
+    
 
     {% if sidebar.website %}
     <li class="website"><i class="fas globe-europe"></i>
