@@ -56,24 +56,20 @@ sidebar:
         - item: Dancing
           link:
 
-        - item: Gaming
-          link:
-
 career-profile:
     title: Career Profile
     summary: |
       In the dynamic field of data science and artificial intelligence, 
-      I have special interest particularly on **industrial AI** and model explainability in recent years.
-      My journey began at Mondragon Unibertsitea, where I graduated in telecommunications engineering in 2009.
-      Further nurturing my passion for technology and innovation, I pursued a PhD at the
+      I have special interest particularly on **industrial AI** and model **explainability** in recent years.
+      My journey began at Mondragon Unibertsitea, where I graduated in **telecommunications engineering** in 2009.
+      Further nurturing my passion for technology and innovation, I pursued a **PhD** at the
       Polytechnic University of Catalonia (UPC), specializing in civil engineering knowledge.
       In 2014, I successfully defended my thesis titled "Design and validation of a methodology for
-      wind energy structures health monitoring", a significant contribution to the field of renewable energy. 
-      My professional trajectory took a promising turn when I joined the IK4-Ikerlan technology centre. 
-      Initially, I was part of the Sensor Department, spearheading projects within the ETICS line. 
+      wind energy structures health monitoring", a significant contribution to the field of **Condition Monitoring**.  
+      In Ikerlan S.Coop, I was part of the Sensor Department, spearheading projects within the ETICS line. 
       My role evolved over time, and by December 2015, I transitioned to the Mechanics Department. 
-      Here, I was instrumental in designing and developing projects centered around data analysis 
-      for monitoring the condition of machinery parts. My tenure at IK4-Ikerlan culminated in the Control
+      Here, I was  developing projects centered around data analysis 
+      for monitoring the condition of machinery parts. My stay at Ikerlan culminated in the Control
       and Monitoring Department, where I tackled complex projects involving monitoring and data analysis 
       in advanced manufacturing problems until 2017. In 2017, I embraced a new opportunity to further my 
       research and development skills at the Research Group of Intelligent Systems for Industrial Systems
@@ -130,84 +126,31 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Researcher and Lecturer
+        time: 2017 - Present
+        company: Mondragon Goi Eskola Politeknikoa (MU)
+        details: | 
+                As a Researcher and Lecturer, I am part of the Artificial Intelligence group in MU. 
+                I teach AI related topics in the University in both computer science barchelor and data analytics Master.
+                For the research, I manage AI related projects and direct several PhD Students, where projects directly with enterprises 
+                come as an important part of my job.
+      - role: Research Data Scientist
+        time: 2009 - 2017
+        company: Ikerlan S.Coop
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          While I was working for Ikerlan S.Coop, I was offered different possitions in different departments for working as a Data Scientist:
+            - Sensors Department (2009 - 2014)
+            - Mechanical Engineering Department (2015 - 2016)
+            - Control and Monitoring Department (2016 - 2017)
+      - role: IT Technician
+        time: 2005 - 2016
+        company: Dantzan.eus
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+           I was responsible for maintaining an organization's technology infrastructure, provide technical support to users, 
+           troubleshoot hardware and software issues, and ensure the proper functioning of computer hardware and software.
+           Managing network equipment, implement security measures, and handle data backup and recovery was also my task, 
+           as software installation and updates, conduct employee training, and maintain documentation and records. 
+           
 
 projects:
     title: Projects
