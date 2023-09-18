@@ -31,6 +31,12 @@
     </li>
     {% endif %}
 
+     {% if sidebar.gscholar %}
+    <li class="telegram"><i class="fa-solid fa-graduation-cap"></i>
+      <a href="https://scholar.google.at/citations?user={{ sidebar.gscholar }}" target="_blank">{{ sidebar.gscholar }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
     <li class="website"><i class="fas globe-europe"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
