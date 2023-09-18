@@ -82,31 +82,48 @@ career-profile:
       This niche area allows me to delve deeper into the intricacies of artificial intelligence, fostering 
       innovation and efficiency in the industrial sector. My commitment to excellence and continuous learning propels 
       me to explore new frontiers, contributing to the advancement of technology and knowledge in the industry.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+    - degree: PhD in Civil Engineering
+        university: Universidad Politecnica de Catalunya (UPC)
+        time: 2009 - 2014
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          TITLE: "Design and validation of a methodology for wind energy structures health monitoring"; 
+          The Structural Health Monitoring (SHM) system, enhanced with AI and statistical learning, aims to
+          optimize the performance and reduce maintenance costs of structures by accurately assessing their current state. 
+          Utilizing a network of sensors attached to the structure, it continuously monitors various 
+          parameters, employing proprietary algorithms for precise analysis. This advanced approach 
+          integrates AI to facilitate pattern recognition, comparing current data with baseline statistics
+          to identify potential damages. Moreover, statistical learning aids in the efficient processing 
+          of accelerometer data, fostering a robust methodology for damage detection that considers 
+          environmental and operational conditions. This comprehensive strategy ensures not only 
+          the integrity of the structure but also the functionality of the sensors, making it a pivotal
+          tool in maintaining the health and longevity of structures like wind turbines, adapting
+          to unpredictable factors like wind and sea waves.
+          
+      - degree: MSc in New Materials
+        university: Euskal Herriko Unibertsitatea (UPV / EHU)
+        time: 2009 - 2010
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          The Interuniversity Master in New Materials, now intertwined with AI and data analytics, primarily focuses on specialization in the field of new materials. 
+          This program not only offers solid training in the latest synthesis and characterization methodologies but also fosters innovation through the
+          application of AI and advanced data analysis techniques. Students will learn to leverage AI for optimizing processes and predicting material 
+          properties with unprecedented accuracy, and utilize data analytics to expedite research and development in diverse fields such as biomaterials and smart materials.
+          This interdisciplinary approach prepares graduates to lead in the forefront of material science in the digital era.
+          
+      - degree: Telecomunication Engineer
+        university: Mondragon University
+        time: 2003 - 2009
+        details: |
+          A telecommunications engineer delves deeply into the intricate realm of network systems and data transmission. 
+          These studies make professionals rigorously study the complex facets of wireless networks, satellite communications, 
+          and internet protocols. With a profound understanding of digital signal processing and telecommunications equipment,
+          they are equipped to navigate and resolve sophisticated challenges pertaining to network connectivity
+          and data dissemination. Furthermore, a telecom engineer continually engage with emerging technologies, fostering the 
+          integration and enhancement of existing telecommunications infrastructures. Our expertise forms the backbone 
+          of modern society, facilitating seamless and secure communication channels that are pivotal in today's interconnected world.
 
 experiences:
     title: Experiences
