@@ -155,9 +155,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      In this section I add some of the project I have been part of. 
     assignments:
       - title: BASQNET
         link: 
@@ -183,9 +181,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Most of my publications in this section:
     papers:
       - title: The Art of Computer Programming
         link: "https://link.springer.com/article/10.1007/s10489-021-03004-y"
@@ -225,4 +221,4 @@ skills:
         level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
