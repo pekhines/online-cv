@@ -159,25 +159,25 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: BASQNET
+        link: 
+        tagline: "Estudio de nuevas técnicas de inteligencia artificial basadas en Deep Learning dirigidas a la optimización de procesos industriales"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: QU4LITY
+        link: "https://qu4lity-project.eu/"
+        tagline: "Digital Reality in Zero Defect Manufacturing"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: PROPHESY
+        link: "https://prophesy.eu"
+        tagline: "Platform for rapid deployment of self-configuring and optimized predictive maintenance services"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: PRODUCTIVE 4.0
+        link: "https://productive40.eu/"
+        tagline: "Electronics and ICT as enabler for digital industry and optimized supply chain management covering the entire product lifecycle Europa"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: DELICADA
+        link: 
+        tagline: "-Técnicas de inteligencia artificial para detectar piezas defectuosas"
 
 
 publications:
