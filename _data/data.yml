@@ -87,6 +87,7 @@ education:
       - degree: PhD in Civil Engineering
         university: Universidad Politecnica de Catalunya (UPC)
         time: 2009 - 2014
+        link: https://www.tdx.cat/handle/10803/133449
         details: |
           TITLE: "Design and validation of a methodology for wind energy structures health monitoring"; 
           The Structural Health Monitoring (SHM) system, enhanced with AI and statistical learning, aims to
