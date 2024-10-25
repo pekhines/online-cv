@@ -45,7 +45,7 @@ sidebar:
         - item: Model Explainability
           link:
 
-        - item: Predictive Maintenance
+        - item: Prognostic Health Management
           link:
 
         - item: Computer Vision
@@ -252,8 +252,8 @@ skills:
       - name: Industrial AI
         level: 95%
 
-      - name: Predictive Maintenance
-        level: 90%
+      - name: Prognostic Health Management
+        level: 95%
 
       - name: Computer Vision
         level: 85%
