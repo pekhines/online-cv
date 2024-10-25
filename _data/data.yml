@@ -1,225 +1,272 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-    position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    position: right
+    about: true
+    education: true
 
     # Profile information
-    name: Ekhi Zugasti
-    tagline: Data Scientist
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Ekhi Zugasti Uriguen
+    tagline: Researcher & Lecturer in AI and Data Science
+    avatar: profile.png  # Remember to place a 100x100 picture inside /assets/images/ folder
 
     # Sidebar links
-    email: ezugasti@mondragon.edu
-    phone: 
-    timezone: Central European Time
-    citizenship:
+    email: ekhi.zugasti@ehu.eus
+    phone: 605738854
+    timezone: Europe/Madrid
+    citizenship: Spanish
     website: ekhi.eus
     linkedin: ekhiz
-    xing: 
     github: pekhines
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
     gscholar: J31ysTcAAAAJ
     orcid: 0000-0001-8506-5695
 
     languages:
       title: Languages
       info:
-        - idiom: Euskara (Basque)
-          level: Native
-
-        - idiom: English
-          level: Professional
+        - idiom: Euskera
+          level: C2 (Native)
 
         - idiom: Spanish
-          level: Native
-          
+          level: C2 (Native)
+
+        - idiom: English
+          level: C1
+
         - idiom: French
-          level: Limited working proficiency
+          level: B2
 
     interests:
-      title: Interests
+      title: Research Interests
       info:
-        - item: Music
+        - item: Industrial AI
           link:
 
-        - item: Dancing
+        - item: Machine Learning
+          link:
+
+        - item: Model Explainability
+          link:
+
+        - item: Predictive Maintenance
+          link:
+
+        - item: Computer Vision
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      In the dynamic field of data science and artificial intelligence, 
-      I have special interest particularly on **industrial AI** and model **explainability** in recent years.
-      My journey began at Mondragon Unibertsitea, where I graduated in **telecommunications engineering** in 2009.
-      Further nurturing my passion for technology and innovation, I pursued a **PhD** at the
-      Polytechnic University of Catalonia (UPC), specializing in civil engineering knowledge.
-      In 2014, I successfully defended my thesis titled "Design and validation of a methodology for
-      wind energy structures health monitoring", a significant contribution to the field of **Condition Monitoring**.  
-      In Ikerlan S.Coop, I was part of the Sensor Department, spearheading projects within the ETICS line. 
-      My role evolved over time, and by December 2015, I transitioned to the Mechanics Department. 
-      Here, I was  developing projects centered around data analysis 
-      for monitoring the condition of machinery parts. My stay at Ikerlan culminated in the Control
-      and Monitoring Department, where I tackled complex projects involving monitoring and data analysis 
-      in advanced manufacturing problems until 2017. In 2017, I embraced a new opportunity to further my 
-      research and development skills at the Research Group of Intelligent Systems for Industrial Systems
-      of Mondragon Unibertsitea. In this role, I have been at the forefront of designing, developing, and
-      implementing projects that resonate with the Big Data paradigm and anomaly detection. My expertise
-      in data analysis has been pivotal in addressing various industrial system challenges. As I continue
-      to forge ahead in my career, my primary focus has shifted towards industrial AI and model explainability. 
-      This niche area allows me to delve deeper into the intricacies of artificial intelligence, fostering 
-      innovation and efficiency in the industrial sector. My commitment to excellence and continuous learning propels 
-      me to explore new frontiers, contributing to the advancement of technology and knowledge in the industry.
-      
+      Experienced researcher and lecturer specializing in Data Science and Artificial Intelligence, 
+      with a focus on industrial applications. Currently serving as PDI at the University of the 
+      Basque Country (UPV/EHU) in the Department of Electronic Technology. Previously worked at 
+      Mondragon University (2017-2024) leading AI research projects and teaching in both undergraduate 
+      and graduate programs. My research interests span industrial AI, predictive maintenance, 
+      and model explainability, with significant experience in developing algorithms for monitoring 
+      systems and structural health monitoring.
+
 education:
     title: Education
     info:
       - degree: PhD in Civil Engineering
-        university: Universidad Politecnica de Catalunya (UPC)
+        university: Universitat Politècnica de Catalunya (UPC)
         time: 2009 - 2014
-        link: https://www.tdx.cat/handle/10803/133449
         details: |
-          TITLE: "Design and validation of a methodology for wind energy structures health monitoring"; 
-          The Structural Health Monitoring (SHM) system, enhanced with AI and statistical learning, aims to
-          optimize the performance and reduce maintenance costs of structures by accurately assessing their current state. 
-          Utilizing a network of sensors attached to the structure, it continuously monitors various 
-          parameters, employing proprietary algorithms for precise analysis. This advanced approach 
-          integrates AI to facilitate pattern recognition, comparing current data with baseline statistics
-          to identify potential damages. Moreover, statistical learning aids in the efficient processing 
-          of accelerometer data, fostering a robust methodology for damage detection that considers 
-          environmental and operational conditions. This comprehensive strategy ensures not only 
-          the integrity of the structure but also the functionality of the sensors, making it a pivotal
-          tool in maintaining the health and longevity of structures like wind turbines, adapting
-          to unpredictable factors like wind and sea waves.
-          
-      - degree: MSc in New Materials
-        university: Euskal Herriko Unibertsitatea (UPV / EHU)
+          Focused on developing algorithms for monitoring systems for Structural Health Monitoring.
+          Included a research stay at Siegen University specializing in Structural Health 
+          monitoring techniques for Wind Turbines.
+
+      - degree: Master in New Materials
+        university: University of the Basque Country (UPV/EHU)
         time: 2009 - 2010
         details: |
-          The Interuniversity Master in New Materials, now intertwined with AI and data analytics, primarily focuses on specialization in the field of new materials. 
-          This program not only offers solid training in the latest synthesis and characterization methodologies but also fosters innovation through the
-          application of AI and advanced data analysis techniques. Students will learn to leverage AI for optimizing processes and predicting material 
-          properties with unprecedented accuracy, and utilize data analytics to expedite research and development in diverse fields such as biomaterials and smart materials.
-          This interdisciplinary approach prepares graduates to lead in the forefront of material science in the digital era.
-          
-      - degree: Telecomunication Engineer
+          Advanced studies in materials science and characterization techniques.
+
+      - degree: Telecommunications Engineering
         university: Mondragon University
         time: 2003 - 2009
         details: |
-          A telecommunications engineer delves deeply into the intricate realm of network systems and data transmission. 
-          These studies make professionals rigorously study the complex facets of wireless networks, satellite communications, 
-          and internet protocols. With a profound understanding of digital signal processing and telecommunications equipment,
-          they are equipped to navigate and resolve sophisticated challenges pertaining to network connectivity
-          and data dissemination. Furthermore, a telecom engineer continually engage with emerging technologies, fostering the 
-          integration and enhancement of existing telecommunications infrastructures. Our expertise forms the backbone 
-          of modern society, facilitating seamless and secure communication channels that are pivotal in today's interconnected world.
+          Comprehensive education in telecommunications engineering fundamentals and applications.
 
 experiences:
-    title: Experiences
+    title: Professional Experience
     info:
-      - role: Researcher and Lecturer
-        time: 2017 - Present
-        company: Mondragon Goi Eskola Politeknikoa (MU)
+      - role: PDI (Teaching and Research Staff)
+        time: 2024 - Present
+        company: University of the Basque Country (UPV/EHU)
         details: | 
-                As a Researcher and Lecturer, I am part of the Artificial Intelligence group in MU. 
-                I teach AI related topics in the University in both computer science barchelor and data analytics Master.
-                For the research, I manage AI related projects and direct several PhD Students, where projects directly with enterprises 
-                come as an important part of my job.
-      - role: Research Data Scientist
-        time: 2009 - 2017
-        company: Ikerlan S.Coop
+          Department of Electronic Technology at the School of Engineering of Vitoria-Gasteiz.
+
+      - role: Researcher and Lecturer
+        time: 2017 - 2024
+        company: Mondragon University
         details: |
-          While I was working for Ikerlan S.Coop, I was offered different possitions in different departments for working as a Data Scientist:
-            - Sensors Department (2009 - 2014)
-            - Mechanical Engineering Department (2015 - 2016)
-            - Control and Monitoring Department (2016 - 2017)
-      - role: IT Technician
-        time: 2005 - 2016
-        company: Dantzan.eus
+          - Led research in Artificial Intelligence and Data Science
+          - Taught AI courses in Computer Science Bachelor's and Data Analytics Master's programs
+          - Supervised multiple PhD students and research projects
+          - Coordinated industrial collaboration projects
+          - Courses taught:
+            * Advanced Machine Learning (Master's level)
+            * Artificial Intelligence (Bachelor's level)
+            * Fundamentals of Communication Networks
+          - Led various research projects in industrial AI and predictive maintenance
+
+      - role: Researcher
+        time: 2015 - 2017
+        company: Ikerlan
         details: |
-           I was responsible for maintaining an organization's technology infrastructure, provide technical support to users, 
-           troubleshoot hardware and software issues, and ensure the proper functioning of computer hardware and software.
-           Managing network equipment, implement security measures, and handle data backup and recovery was also my task, 
-           as software installation and updates, conduct employee training, and maintain documentation and records. 
-           
+          Focused on industrial monitoring and data analysis projects in the Control and 
+          Monitoring Department.
+
+      - role: Research Scientist - PhD Candidate
+        time: 2009 - 2014
+        company: Ikerlan
+        details: |
+          Worked in the Sensors Department, focusing on Structural Health Monitoring research 
+          and development.
 
 projects:
-    title: Projects
+    title: Notable Research Projects
     intro: >
-      In this section I add some of the project I have been part of. 
+      Selection of significant research projects as Principal Investigator or Key Researcher:
     assignments:
-      - title: BASQNET
-        link: 
-        tagline: "Estudio de nuevas técnicas de inteligencia artificial basadas en Deep Learning dirigidas a la optimización de procesos industriales"
+      - title: AUTOTRUST
+        time: 2023 - 2024
+        tagline: "Autonomous Mobility through Explainability and AI Evaluation Technologies"
+
+      - title: Twin4Crane
+        time: 2023 - 2024
+        tagline: "Digital Models for Crane Vision Systems"
+
+      - title: DOMUSAI
+        time: 2021 - 2024
+        tagline: "Intelligent Biomass Boilers using AI Techniques"
 
       - title: QU4LITY
+        time: 2019 - 2022
         link: "https://qu4lity-project.eu/"
         tagline: "Digital Reality in Zero Defect Manufacturing"
 
       - title: PROPHESY
+        time: 2017 - 2020
         link: "https://prophesy.eu"
-        tagline: "Platform for rapid deployment of self-configuring and optimized predictive maintenance services"
-
-      - title: PRODUCTIVE 4.0
-        link: "https://productive40.eu/"
-        tagline: "Electronics and ICT as enabler for digital industry and optimized supply chain management covering the entire product lifecycle Europa"
-
-      - title: DELICADA
-        link: 
-        tagline: "-Técnicas de inteligencia artificial para detectar piezas defectuosas"
-
+        tagline: "Platform for self-configuring predictive maintenance services"
+# Previous sections remain the same until publications...
 
 publications:
-    title: Publications
+    title: Selected Publications
     intro: |
-      Most of my publications in this section:
+      Google Scholar H-index: 10
+      Selected peer-reviewed publications in international journals and conferences:
     papers:
-      - title: The Art of Computer Programming
-        link: "https://link.springer.com/article/10.1007/s10489-021-03004-y"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A Methodology for Advanced Manufacturing Defect Detection through Self-Supervised Learning on X-ray Images
+        authors: Intxausti, E., Skocaj, D., Cernuda, C., Zugasti, E.
+        journal: Applied Sciences
+        year: 2023
+        volume: 14(7)
+        pages: 2785
+        publisher: MDPI
+        doi: https://doi.org/10.3390/app14072785
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Best Practice Data Sharing Guidelines for Wind Turbine Fault Detection Model Evaluation
+        authors: Barber, S., Izagirre, U., Serradilla, O., Olaizola, J., Zugasti, E., et al.
+        journal: Energies
+        year: 2023
+        volume: 16(8)
+        pages: 3567
+        publisher: MDPI
+        doi: https://doi.org/10.3390/en16083567
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Diagnostic spatio-temporal transformer with faithful encoding
+        authors: Labaien, J., Zugasti, E., Tsuyoshi, I., Chen, P.Y., De Carlos, X.
+        journal: Knowledge-Based Systems
+        year: 2023
+        volume: 274
+        pages: 110639
+        publisher: Elsevier
+        impact_factor: 8.139
 
+      - title: Predicting the effect of voids generated during RTM on the low-velocity impact behaviour by machine learning-based surrogate models
+        authors: Mendikute, J., Baskaran, M., Llavori, I., Zugasti, E., Aretxabaleta, L., Aurrekoetxea, J.
+        journal: Composites Part B Engineering
+        year: 2023
+        volume: 221
+        pages: 108973
+        publisher: ScienceDirect
+        impact_factor: 9.078
+
+      - title: Deep learning models for predictive maintenance a survey, comparison, challenges and prospects
+        authors: Serradilla, O., Zugasti, E., Rodriguez, J., Zurutuza, U.
+        journal: Applied Intelligence
+        year: 2022
+        volume: 52
+        pages: 10934-10964
+        publisher: Springer
+        impact_factor: 5.019
+
+      - title: Methodology for data-driven predictive maintenance models design, development and implementation on manufacturing guided by domain knowledge
+        authors: Serradilla, O., Zugasti, E., Ramirez, J., Rodriguez, J., Zurutuza, U.
+        journal: International Journal of Computer Integrated Manufacturing
+        year: 2022
+        volume: 35(12)
+        pages: 1310-1334
+        publisher: Taylor and Francis
+        impact_factor: 3.063
+
+      - title: Adaptable and Explainable Predictive Maintenance Semi-Supervised Deep Learning for Anomaly Detection and Diagnosis in Press Machine Data
+        authors: Serradilla, O., Zugasti, E., Ramirez, J., Rodriguez, J., Zurutuza, U.
+        journal: Applied Sciences
+        year: 2021
+        volume: 11(16)
+        pages: 7376
+        publisher: MDPI
+        doi: https://doi.org/10.3390/app11167376
+
+      - title: Impregnation quality diagnosis in Resin Transfer Moulding by machine learning
+        authors: Mendikute, J., Plazaola, J., Baskaran, M., Zugasti, E., Aretxabaleta, L., Aurrekoetxea, J.
+        journal: Composites Part B Engineering
+        year: 2021
+        volume: 221
+        pages: 108973
+        publisher: ScienceDirect
+        impact_factor: 9.078
+
+    book_chapters:
+      - title: Providing Proactiveness Data Analysis Techniques Portfolios
+        authors: Zurutuza, U., Zugasti, E.
+        book: The MANTIS Book
+        publisher: River Publishers
+        year: 2018
+
+      - title: An Implementation of a Complete Methodology for Wind Energy Structures Health Monitoring
+        authors: Zugasti, E., Mujica, L.E., Anduaga, J., Martinez, F.
+        book: Emerging Design Solutions in Structural Health Monitoring Systems
+        publisher: IGI Global
+        year: 2015
+        pages: 274-299
+
+# Rest of the YAML remains the same...
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Technical Skills
     toolset:
-      - name: Python 
+      - name: Machine Learning & Deep Learning
         level: 98%
 
-      - name: Machine Learning
-        level: 98%
+      - name: Industrial AI
+        level: 95%
 
-      - name: Deep Learning
-        level: 98%
+      - name: Predictive Maintenance
+        level: 90%
 
-      - name: Computer Vision 
+      - name: Computer Vision
         level: 85%
 
-      - name: Data Engineering
-        level: 60%
+      - name: Explainable AI
+        level: 90%
 
-      - name: Prognostics
-        level: 85%
+      - name: Python
+        level: 95%
+
+      - name: Data Analysis
+        level: 95%
 
 footer: >
-    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Last updated: October 2024
