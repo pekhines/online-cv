@@ -150,10 +150,10 @@ projects:
 # Previous sections remain the same until publications...
 
 publications:
-    title: Selected Publications
+    title: Selected Publications 
     intro: |
       Google Scholar H-index: 10
-      Selected peer-reviewed publications in international journals and conferences:
+      Selected peer-reviewed publications in international journals and conferences, access my publications in https://github.com/pekhines/Papers/tree/674466a2a73362ac912a68941ca3d3cb869f8daf/Papers:
     papers:
       - title: A Methodology for Advanced Manufacturing Defect Detection through Self-Supervised Learning on X-ray Images
         authors: Intxausti, E., Skocaj, D., Cernuda, C., Zugasti, E.
